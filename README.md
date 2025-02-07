@@ -11,11 +11,13 @@ The Full-Stack Task Manager App is a MERN stack application that allows users to
 - Mongoose – ODM for MongoDB
 - Dotenv – Manage environment variables
 - JWT (jsonwebtoken) – Authentication
+
 **Frontend (React.js + Dependencies)**
 - React.js – Frontend framework
 - React Router – Navigation
 - Axios – API requests
 - Tailwind CSS (Optional) – Styling
+
 **Development Tools**
 - Git – Version control
 - Postman – API testing
